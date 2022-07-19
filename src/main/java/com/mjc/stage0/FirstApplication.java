@@ -1,5 +1,4 @@
 package com.mjc.stage0;
-import java.util.*;
 
 public class FirstApplication {
     public static void main(String[] args) {
